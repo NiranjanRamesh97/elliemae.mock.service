@@ -11,6 +11,18 @@
             "resourceType":"Encompass",
             "resourceRef":""
          }
+      },
+      {
+         "encompassId":"100001",
+         "dateTime":"2020-09-15T17:33:02.647664+00:00",
+         "eventType":"blah blah blah once again",
+         "channel":"Correspondent",
+         "data":{
+            "userId":"456",
+            "resourceId":"45dgy168-c05c-475t-b0fe-6befaac7af45",
+            "resourceType":"Encompass",
+            "resourceRef":""
+         }
       }
    ]
 }
